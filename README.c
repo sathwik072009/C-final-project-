@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX 5   // Maximum number of products
+#define MAX 5   
 
 int main()
 {
